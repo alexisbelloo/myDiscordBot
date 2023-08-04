@@ -15,7 +15,7 @@ async def sendMessage(message, userMessage,isPrivate):
 
 # Method for actually running the bot
 def run_discord_bot():
-    token = "MTEzNzA3MjYzMzY4MzM5ODgxNw.G7Ucx0.a7pO2mSqx47eJMEVmxc5hdgGxxbm0w_89sP4JE"
+    token = "CHANGED DUE TO PRIVACY"
     client = discord.Client(intents=discord.Intents.default()) #client for bot
 
     @client.event
